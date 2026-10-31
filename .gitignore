@@ -1,0 +1,17 @@
+# ---- KiCad: artefak lokal / otomatis (jangan di-commit) ----
+.history/
+_autosave-*
+*-backups/
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+*.lck
+_restore_backup_*/
+
+# ---- Output hasil generate ----
+*.rpt
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
